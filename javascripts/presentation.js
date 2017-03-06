@@ -1,1 +1,0 @@
-(function(){$(document).ready(function(){return $("#hero #typer").last().typed({strings:["Drinking wine.","Enjoying the sunset.","Relaxing with your family.","The perfect barbeque.","You."],typeSpeed:0,startDelay:800,backDelay:1500,showCursor:!1})})}).call(this);

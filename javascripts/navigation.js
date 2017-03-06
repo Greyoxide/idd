@@ -1,1 +1,0 @@
-(function(){$(document).ready(function(){return $("#burger").click(function(){}),$(this).toggleClass("active"),$("#menu").toggleClass("active")})}).call(this);
